@@ -4,6 +4,7 @@ public class Add2Num {
         int a=10,b=20;
         System.out.println(a+b);
         System.out.println("learning to resolve merge conflicts so added this line in main branch");
+        //added this line in main branch
     }
     
 }
